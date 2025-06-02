@@ -55,7 +55,7 @@ export default function Home() {
 
       <section className="max-w-3xl mx-auto mb-8 md:mb-32 bg-secondary/50 p-4 md:p-8 rounded-lg">
         <div className="flex flex-col items-center text-center">
-          <h2 className="text-lg md:text-2xl font-bold mb-3 md:mb-4">¿Necesitas ayuda construyendo un producto, armando equipo de desarrollo o encontrando diseñadores?</h2>
+          <h2 className="text-lg md:text-2xl font-bold mb-3 md:mb-4">¿Necesitas ayuda construyendo un producto?</h2>
           <Button asChild size="sm" className="w-full md:w-auto md:size-lg">
             <Link href="mailto:ubarrionuevo137@gmail.com">Contáctame, te puedo ayudar →</Link>
           </Button>
